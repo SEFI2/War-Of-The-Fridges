@@ -1,0 +1,43 @@
+﻿  main.cpp
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\minecraft.h(40): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\minecraft.h(40): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\minecraft.h(86): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\minecraft.h(94): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\minecraft.h(109): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\minecraft.h(117): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\minecraft.h(125): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\minecraft.h(134): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(149): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(307): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(404): warning C4305: '+=': truncation from 'double' to 'float'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(449): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(457): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(504): warning C4305: '-=': truncation from 'double' to 'float'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(516): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(608): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(711): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(713): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(774): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(774): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(775): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(775): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(776): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(776): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(779): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(779): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(780): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(780): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(781): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(781): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(784): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(784): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(785): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(785): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(786): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(786): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(789): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(789): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(790): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+e:\finalproject\fspgame\consoleapplication1\consoleapplication1\main.cpp(790): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  ConsoleApplication1.vcxproj -> E:\FinalProject\FSPgame\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> E:\FinalProject\FSPgame\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Partial PDB)
